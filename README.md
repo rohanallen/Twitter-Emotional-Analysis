@@ -1,5 +1,7 @@
 # Twitter-Emotional-Analysis
 Final year project at University of Plymouth under Dr. Marco Palomino
+
+
 As the COVID-19 pandemic continues to unfold, a parallel outbreak of fear and depression is also spreading around, impacting
 negatively on the well-being of the general public and health care workers alike. In an attempt to develop tools to expedite mental health
 diagnosis, we have looked into emotion analysis and recognition, as this has become indispensable to understand and mine opinions.
