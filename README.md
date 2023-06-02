@@ -14,4 +14,4 @@ well-being of people in the UK and worldwide.
  
  If you use our models in a scientific publication, we would appreciate citations to the following paper:
  
- Palomino M, Allen R & Varma AP (2023) 'Depression in the Times of COVID-19: A Machine Learning Analysis Based on the Profile of Mood States' in Vetulani Z; Paroubek P 10th Language and Technology Conference 4-/-0/20234-/-0/2023, https://press.amu.edu.pl/pl/human-language-technologies-as-a-challenge-for-computer-science-and-linguistics-2023.html
+ Palomino M, Allen R & Varma AP (2023) 'Depression in the Times of COVID-19: A Machine Learning Analysis Based on the Profile of Mood States' in Vetulani Z; Paroubek P 10th Language and Technology Conference 4-/-0/20234-/-0/2023, DOI: 10.14746/amup.9788323241775
